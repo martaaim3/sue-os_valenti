@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ESTILO GENERAL */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f6fb;
+  color: #333;
+}
+
+/* CABECERA */
+header {
+  background-color: #3f51b5;
+  color: white;
+  padding: 20px;
+}
+
+header h1 {
+  margin-bottom: 10px;
+}
+
+
+nav button {
+  margin-right: 10px;
+  padding: 10px 15px;
+  border: none;
+  background-color: white;
+  color: #3f51b5;
+  cursor: pointer;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+nav button:hover {
+  background-color: #e0e0e0;
+}
+
+/* CONTENIDO */
+main {
+  padding: 20px;
+  min-height: 300px;
+}
+
+/* TARJETAS */
+.card {
+  background-color: white;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 6px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* BOTONES */
+.btn {
+  padding: 8px 12px;
+  background-color: #3f51b5;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #303f9f;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #ddd;
+  font-size: 14px;
+}
+
+
