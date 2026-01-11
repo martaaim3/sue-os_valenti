@@ -37,7 +37,9 @@ suenos-valenti/
    ├─ carrito.js
    ├─ preferencias.js
    └─ utils.js
+
 📦 Funcionalidades
+
 1️⃣ Interfaz inicial (SPA)
 
 Navegación mediante botones sin recargar la página
